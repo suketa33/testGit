@@ -13,6 +13,7 @@
             <?php echo 'nous sommes le'. date('d-m-Y'); ?>
                 <img src="foto.png">
                 lololololololololololo
+                fgggergrger
         </div>
     </div>
 </body>
